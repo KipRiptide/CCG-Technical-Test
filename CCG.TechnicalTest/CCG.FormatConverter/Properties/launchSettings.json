@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CCG.FormatConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "-sf csv -sp \"C:\\Temp\\Sample.csv\" -df json -dp \"C:\\Temp\\Result.json\""
+    }
+  }
+}
